@@ -1,0 +1,22 @@
+{
+  "name": "@nikersify/noop",
+  "version": "0.0.0",
+  "description": "do nothing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikersify/noop.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "nikersify <nikersify@nikerino.com> (https://nikerino.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikersify/noop/issues"
+  },
+  "homepage": "https://github.com/nikersify/noop#readme"
+}
