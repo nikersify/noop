@@ -1,4 +1,4 @@
-# noop
+# noop [![Build Status](https://travis-ci.com/nikersify/noop.svg?branch=master)](https://travis-ci.com/nikersify/noop)
 
 > Do nothing.
 
