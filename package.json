@@ -1,6 +1,6 @@
 {
   "name": "@nikersify/noop",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "do nothing",
   "main": "index.js",
   "scripts": {
